@@ -10,4 +10,12 @@ Referência das Visualizações:
 • Site: https://covid.saude.gov.br/
 • Guia do Site: Painel Geral
 
+1. Enviar os dados para o hdfs
+Assistir aulas do módulo
+
+2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por
+município.
+Assistir aulas dos módulos 4, 5 e 6 do Big Data Foundations
+
+
 
